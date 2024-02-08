@@ -11,8 +11,8 @@
 	<groupId>com.acrionconsulting</groupId>
 	<artifactId>movie-catalog-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-microservice</name>
-	<description>Demo project for Spring Boot</description>
+	<name>movie-catalog-service</name>
+	<description>Movie Catalogue Service made using Spring boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
